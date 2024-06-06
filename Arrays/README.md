@@ -1,4 +1,4 @@
-#Arrays in python
+# Arrays in python
 
 ## Operations on arrays in python
 - [append()]()
